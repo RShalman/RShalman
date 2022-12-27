@@ -1,0 +1,15 @@
+{
+  "name": "Roman",
+  "surname": "Shalman",
+  "from": {
+    "city": "Moscow",
+    "country": "Russia",
+    "flagIconURL": "https://cdn-icons-png.flaticon.com/64/197/197408.png"
+  },
+  "currentlyLiving": {
+    "city": "London",
+    "country": "UK",
+    "flagIconURL": "https://cdn-icons-png.flaticon.com/64/197/197374.png"
+  },
+  "jobTitle": "Frontend Engineer"
+}
