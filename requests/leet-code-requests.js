@@ -1,4 +1,4 @@
-import {postRequest} from "../http/client.mjs";
+import {postRequest} from "../http/client.js";
 
 const statsQuery = `
     query userProblemsSolved($username: String!) {
@@ -59,18 +59,20 @@ const publicProfileQuery = `
 `
 
 async function leetCodeDataRequest(username, query, errorTag) {
-    return await postRequest('https://leetcode.com/graphql',
-        {
-            body: JSON.stringify({
-                query,
-                "variables": {
-                    username
-                }
-            })
-        }
-    )
-    .then(res => res.json())
-    .catch(e => console.error(`${errorTag ?? 'LC_REQ_ATTEMPT'}: ${e.message}`))
+    try {
+        return await postRequest('https://leetcode.com/graphql',
+            {
+                body: JSON.stringify({
+                    query,
+                    "variables": {
+                        username
+                    }
+                })
+            }
+        )
+    } catch (e) {
+        console.error(`${errorTag ?? 'LC_REQ_ATTEMPT'}: ${e.message}`)
+    }
 }
 
 export async function getLeetCodeStats(username) {

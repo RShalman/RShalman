@@ -11,5 +11,6 @@
     "country": "UK",
     "flagIconURL": "https://cdn-icons-png.flaticon.com/64/197/197374.png"
   },
-  "jobTitle": "Frontend Engineer"
+  "mainJobTitle": "Frontend Engineer",
+  "currentJobTitle": "Senior Frontend Developer / Team Lead"
 }

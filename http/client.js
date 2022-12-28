@@ -8,17 +8,17 @@ const baseOptions = {
 }
 
 export async function getRequest(url, options) {
-    return await fetch(url, {
+    return await (await fetch(url, {
         method: 'GET',
         ...baseOptions,
         ...options
-    })
+    })).json()
 }
 
 export async function postRequest(url, options) {
-    return await fetch(url, {
+    return await (await fetch(url, {
         method: 'POST',
         ...baseOptions,
         ...options
-    })
+    })).json()
 }

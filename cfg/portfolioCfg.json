@@ -1,0 +1,132 @@
+{
+  "menu": [
+    {
+      "name": "Credit Estimator Project",
+      "href": "/credit-estimator"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "imageURL": "/images/javascript.svg"
+    },
+    {
+      "name": "TypeScript",
+      "imageURL": "/images/typescript.svg"
+    },
+    {
+      "name": "Node.js",
+      "imageURL": "/images/nodejs.svg"
+    },
+    {
+      "name": "Git",
+      "imageURL": "/images/git.svg"
+    },
+    {
+      "name": "React",
+      "imageURL": "/images/react.svg"
+    },
+    {
+      "name": "Svelte",
+      "imageURL": "/images/svelte.svg"
+    },
+    {
+      "name": "MobX",
+      "imageURL": "/images/mobx.svg"
+    },
+    {
+      "name": "Redux",
+      "imageURL": "/images/redux.svg"
+    },
+    {
+      "name": "Next.js",
+      "imageURL": "/images/nextjs.svg"
+    },
+    {
+      "name": "Webpack",
+      "imageURL": "/images/webpack.svg"
+    },
+    {
+      "name": "Vite",
+      "imageURL": "/images/vite.svg"
+    },
+    {
+      "name": "Babel",
+      "imageURL": "/images/babel.svg"
+    },
+    {
+      "name": "CSS-in-JS",
+      "imageURL": "/images/sass.svg"
+    },
+    {
+      "name": "Tailwind",
+      "imageURL": "/images/tailwind.svg"
+    },
+    {
+      "name": "Jest",
+      "imageURL": "/images/jest.svg"
+    }
+  ],
+  "workplaces": [
+    {
+      "name": "Currency-Solutions",
+      "imagePath": "images/CurrencySolutions-logo.svg"
+    },
+    {
+      "name": "VTB",
+      "imagePath": "images/VTB-Logo.svg"
+    },
+    {
+      "name": "Sber",
+      "imagePath": "images/Sberbank-Logo.svg"
+    },
+    {
+      "name": "Wildberries",
+      "imagePath": "images/WB-logo.svg"
+    },
+    {
+      "name": "MIA Rossiya Segodnya",
+      "imagePath": "images/RossiyaSegodnya-logo.svg"
+    }
+  ],
+  "socials": {
+    "mailAction": "mailto:romanshalman@gmail.com",
+    "icons": [
+      {
+        "name": "vk",
+        "href": "https://vk.com/roman_shalman",
+        "imgPath": "/images/vk_logo.svg"
+      },
+      {
+        "name": "fb",
+        "href": "https://www.facebook.com/roman.shalman.5",
+        "imgPath": "/images/fb_logo.svg"
+      },
+      {
+        "name": "github",
+        "href": "https://github.com/RShalman",
+        "imgPath": "/images/gh_logo.svg"
+      },
+      {
+        "name": "freecodecamp",
+        "href": "https://www.freecodecamp.org/rshalman",
+        "imgPath": "/images/fcc_logo.svg"
+      },
+      {
+        "name": "codepen",
+        "href": "https://codepen.io/RShalman/",
+        "imgPath": "/images/cp_logo.svg"
+      },
+      {
+        "name": "telegram",
+        "href": "https://t.me/kursor",
+        "imgPath": "/images/tg_logo.svg"
+      },
+      {
+        "name": "mail",
+        "href": "mailto:romanshalman@gmail.com",
+        "imgPath": "/images/gm_logo.svg"
+      }
+    ]
+  }
+}
