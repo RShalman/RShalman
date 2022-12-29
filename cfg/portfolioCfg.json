@@ -103,6 +103,11 @@
         "imgPath": "/images/fb_logo.svg"
       },
       {
+        "name": "li",
+        "href": "https://www.linkedin.com/in/roman-shalman/",
+        "imgPath": "/images/linked-in_logo.svg"
+      },
+      {
         "name": "github",
         "href": "https://github.com/RShalman",
         "imgPath": "/images/gh_logo.svg"

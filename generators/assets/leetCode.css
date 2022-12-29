@@ -1,0 +1,124 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    color: #FFFFFF;
+}
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: rgb(40, 40, 40);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.profile {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+}
+
+.name {
+    flex: 1 100%;
+    margin-bottom: 20px;
+}
+
+.profileInfo {
+    flex: 1 auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.profileInfo p, .profileInfo b {
+    margin-right: 10px;
+}
+
+.highlight {
+    color: #4f9edd;
+}
+
+.stats {
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
+}
+
+.allCounter {
+    flex: 1 50%;
+    display: flex;
+}
+
+.allCounterInner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.circle {
+    position: absolute;
+    top: calc(50% - 70px);
+    left: calc(50% - 70px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 90px;
+    padding: 20px;
+    height: 90px;
+    border-radius: 100%;
+}
+
+.circle:after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    top: -5px;
+    left: -5px;
+    padding: 5px;
+    position: absolute;
+    border-radius: 50%;
+    mask: radial-gradient(farthest-side, #0000 calc(100% - 22px), #000 calc(100% - 22px));
+    -webkit-mask: radial-gradient(farthest-side, #0000 calc(100% - 5px), #000 calc(100% - 5px));
+}
+
+.detailedCounter {
+    flex: 1 50%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+}
+
+.detail {
+    position: relative;
+}
+
+.detailInfo {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.detailInfo p:first-child {
+    width: 80px;
+    margin-right: 20px;
+}
+
+.detailInfo p:last-child {
+    margin-left: auto;
+}
+
+.detailBar {
+    width: 100%;
+    height: 5px;
+    position: relative;
+}
+
+.progress {
+    height: 5px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
