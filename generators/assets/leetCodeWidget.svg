@@ -1,0 +1,96 @@
+
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+.container {
+display: flex;
+flex-flow: row wrap;
+background-color: rgb(40,40, 40);
+padding: 20px;
+border-radius: 10px;
+}
+.name {
+flex: 1 100%
+}
+.profileInfo {
+margin-right: 20px;
+display: flex;
+align-items: center;
+justify-content: center
+}
+</style>
+<h3>My LeetCode achievements</h3> 
+<div class="container">
+<span class="name">Roman Shalman a.k.a <a href="https://leetcode.com/Kursor" target="_blank">Kursor</a></span>
+<h4 class="profileInfo">Ranking: 2574093</h4>
+<span class="profileInfo">Views: 36 <p>(+29)</p></span>
+<span class="profileInfo">Solutions: 4 <p>(+3)</p></span>
+<span class="profileInfo">Reputation: 0</span>
+<div>
+<p>Solved problems</p>
+<div>
+<svg class="h-full w-full origin-center -rotate-90 transform" viewBox="0 0 100 100">
+<circle fill="none" cx="50px" cy="50px" r="46" stroke-width="3" stroke-linecap="round" stroke="currentColor" class="w-[100px] text-gray-4 dark:text-dark-gray-4"></circle>
+<circle fill="none" cx="50px" cy="50px" r="46" stroke-width="5" stroke-linecap="round" stroke="currentColor" class="cursor-pointer text-brand-orange dark:text-dark-brand-orange drop-shadow-[0_2px_4px_rgba(255,161,22,0.2)]" stroke-dasharray="0.5736929816003592 288.4528311486606" stroke-dashoffset="0" data-difficulty="ALL"></circle>
+<div>
+<span>
+5
+<br/>
+Solved
+</span>
+</div>
+</svg>
+</div>
+<div>
+<div>
+<div>
+<p>All</p>
+<p>5 / 2519</p>
+<p>Not enough data</p>
+</div>
+<div style="background-color: rgb(74,74,74); width: 100%; height: 5px">
+<span />
+</div>
+</div> 
+,
+<div>
+<div>
+<p>Easy</p>
+<p>1 / 617</p>
+<p>Beats 17.61%</p>
+</div>
+<div style="background-color: rgba(44,187,93,.25); width: 100%; height: 5px">
+<span />
+</div>
+</div> 
+,
+<div>
+<div>
+<p>Medium</p>
+<p>4 / 1341</p>
+<p>Not enough data</p>
+</div>
+<div style="background-color: rgba(255,192,30,.25); width: 100%; height: 5px">
+<span />
+</div>
+</div> 
+,
+<div>
+<div>
+<p>Hard</p>
+<p>0 / 561</p>
+<p>Beats undefined%</p>
+</div>
+<div style="background-color: rgba(239,71,67,.25); width: 100%; height: 5px">
+<span />
+</div>
+</div> 
+</div>
+<div>
+</div>
+</div>
+</div>
+</div>
+</foreignObject>
+</svg>
