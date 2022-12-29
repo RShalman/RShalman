@@ -42,7 +42,7 @@ const leetCodeSvg = async () => {
     const styles = fs.readFileSync(path.join(process.cwd(), '/generators/assets/leetCode.css'))
 
     return nestedRender(`
-        <svg fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
             <foreignObject width="100%" height="100%">
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <style>
