@@ -28,7 +28,7 @@ jobs:
       - name: Generate README file
         run: node generators/main.js
       - name: Push new README.md
-          run: |
+        run: |
             git config --global user.name 'Auto Publisher'
             git config --global user.email 'autopublisher@users.noreply.github.com'
             git add README.MD
