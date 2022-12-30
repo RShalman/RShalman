@@ -16,8 +16,7 @@
   "learning": [
     {"name": "Vue.js", "imageURL": "https://raw.githubusercontent.com/vuejs/art/9f8ee218d32b52c2d150212f22798a7a61689361/logo.svg"},
     {"name": "Solid.js", "imageURL": "https://www.solidjs.com/img/logo/without-wordmark/logo.svg"},
-    {"name": "Golang", "imageURL": "https://go.dev/images/go-logo-blue.svg"},
-    {"name": "DSA", "imageURL": null}
+    {"name": "Golang", "imageURL": "https://go.dev/images/go-logo-blue.svg"}
   ],
   "portfolioURL": "https://rshalman.github.io"
 }
