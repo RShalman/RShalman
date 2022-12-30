@@ -9,7 +9,7 @@ import {leetCode} from "./leetCode.js";
 import {mdBlockWithBottomSpace} from "../utils/commons.js";
 
 const dirName = process.cwd();
-const readmePath = path.join(dirName, '/README.MD')
+const readmePath = path.join(dirName, '/README.md')
 
 async function buildMD() {
     try {
