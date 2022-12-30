@@ -12,8 +12,8 @@ const readmePath = path.join(dirName, '/README.MD')
 
 async function buildMD() {
     try {
-        await leetCode()
-        const leetCodeMarkup = `<img src="generators/assets/leetCodeWidget.svg" />`
+        const leetCodeMarkup =  await leetCode()
+
         fs.writeFileSync(readmePath, Intro + Links + ExperiencedIn + Learning + leetCodeMarkup,)
     } catch (e) {
         console.error('BUILD_INTRO', e)

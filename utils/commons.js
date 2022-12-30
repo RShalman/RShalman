@@ -1,5 +1,5 @@
 export function nestedRender(str) {
-    return str?.replaceAll(/\>,/gi, '')?.replaceAll(/\>(\s+|),(\s+|)\</gi, '>\n<')
+    return str?.replaceAll(/\>(\s+|),(\s+|)\</gi, '>\n<')
 }
 
 export function numberWithCommas(num) {

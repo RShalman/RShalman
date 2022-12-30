@@ -57,7 +57,6 @@ const leetCodeSvg = async () => {
                             }
                     </style>
                         
-                    <h3>My LeetCode achievements</h3> 
                     <div class="container">
                         <div class="profile">
                             <span class="name">${profile.realName} a.k.a <a href="https://leetcode.com/${username}" target="_blank">${username}</a></span>
@@ -110,6 +109,8 @@ export async function leetCode() {
         }
 
         fs.writeFileSync(assetsDir + '/leetCodeWidget.svg', markup)
+
+        return nestedRender(`<h3>My LeetCode achievements</h3><img src="generators/assets/leetCodeWidget.svg" />`)
     } catch (e) {
         console.error("LEET_CODE_WIDGET:", e.message)
     }

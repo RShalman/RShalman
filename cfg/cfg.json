@@ -18,5 +18,6 @@
     {"name": "Solid.js", "imageURL": "https://www.solidjs.com/img/logo/without-wordmark/logo.svg"},
     {"name": "Golang", "imageURL": "https://go.dev/images/go-logo-blue.svg"},
     {"name": "DSA", "imageURL": null}
-  ]
+  ],
+  "portfolioURL": "https://rshalman.github.io"
 }
