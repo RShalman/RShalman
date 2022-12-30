@@ -8,7 +8,7 @@ on:
 #    - cron: '0 */3 * * *'
 
 jobs:
-  deps:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
@@ -24,16 +24,8 @@ jobs:
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
       - name: Install dependencies
         run: npm install
-
-  generate:
-    needs: [deps]
-    steps:
       - name: Generate README file
         run: node generators/main.js
-
-  update:
-    needs: [generate]
-    steps:
       - name: Push new README.md
         run: |
             git config --global user.name 'Auto Publisher'
