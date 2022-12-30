@@ -1,0 +1,36 @@
+name: README build
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+#    - cron: '0 */3 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+      - name: setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+      - name: cache
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: npm install
+      - name: Generate README file
+        run: node generators/main.js
+      - name: Push new README.md
+          run: |
+            git config --global user.name 'Auto Publisher'
+            git config --global user.email 'autopublisher@users.noreply.github.com'
+            git add README.MD
+            git commit -m "Automated update of Readme"
+            git push
