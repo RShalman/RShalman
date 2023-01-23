@@ -137,15 +137,15 @@
                             }
                             
                             .circle:after {
-                                background: radial-gradient(farthest-side, rgb(255,166,22) 98%, #0000) top/5px 5px no-repeat, conic-gradient(rgb(255,166,22) calc(0.23594180102241447 * 1%), #0000 0);
+                                background: radial-gradient(farthest-side, rgb(255,166,22) 98%, #0000) top/5px 5px no-repeat, conic-gradient(rgb(255,166,22) calc(0.27483313702394974 * 1%), #0000 0);
                             }
                     </style>
                         
                     <div class="container">
                         <div class="profile">
                             <span class="name">Roman Shalman a.k.a <a href="https://leetcode.com/Kursor" target="_blank">Kursor</a></span>
-                            <span class="profileInfo"><p>Ranking:</p><b>2,476,291</b></span>
-                            <span class="profileInfo"><p>Views:</p> <b>88</b> <p class="highlight">+4</p></span>
+                            <span class="profileInfo"><p>Ranking:</p><b>2,478,343</b></span>
+                            <span class="profileInfo"><p>Views:</p> <b>91</b> <p class="highlight">+7</p></span>
                             <span class="profileInfo"><p>Solutions:</p> <b>5</b> <p class="highlight">+0</p></span>
                             <span class="profileInfo"><p>Reputation:</p> <b>0</b></span>
                         </div>
@@ -154,7 +154,7 @@
                             <div class="allCounter">
                                 <div class="allCounterInner">
                                         <span class="circle">
-                                            6
+                                            7
                                             <br/>
                                             Solved
                                         </span>
@@ -165,27 +165,27 @@
                                     <div class="detail">
                                         <div class="detailInfo">
                                             <p>Easy</p>
-                                            <p>1 / 622</p>
+                                            <p>2 / 623</p>
                                             <p>Not enough data</p>
                                         </div>
                                         <div style="background-color: rgba(44,187,93,.25);" class="detailBar">
-                                            <span style="background-color: rgb(0,184,163); width: 0.1607717041800643%;" class="progress" />
+                                            <span style="background-color: rgb(0,184,163); width: 0.32102728731942215%;" class="progress" />
                                         </div>
                                     </div>
 <div class="detail">
                                         <div class="detailInfo">
                                             <p>Medium</p>
-                                            <p>5 / 1354</p>
+                                            <p>5 / 1356</p>
                                             <p>Beats 23.59%</p>
                                         </div>
                                         <div style="background-color: rgba(255,192,30,.25);" class="detailBar">
-                                            <span style="background-color: rgb(255, 192, 30); width: 0.36927621861152143%;" class="progress" />
+                                            <span style="background-color: rgb(255, 192, 30); width: 0.3687315634218289%;" class="progress" />
                                         </div>
                                     </div>
 <div class="detail">
                                         <div class="detailInfo">
                                             <p>Hard</p>
-                                            <p>0 / 567</p>
+                                            <p>0 / 568</p>
                                             <p>Not enough data</p>
                                         </div>
                                         <div style="background-color: rgba(239,71,67,.25);" class="detailBar">
