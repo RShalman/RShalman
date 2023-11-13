@@ -137,14 +137,14 @@
                             }
                             
                             .circle:after {
-                                background: radial-gradient(farthest-side, rgb(255,166,22) 98%, #0000) top/5px 5px no-repeat, conic-gradient(rgb(255,166,22) calc(1.4670760832480383 * 1%), #0000 0);
+                                background: radial-gradient(farthest-side, rgb(255,166,22) 98%, #0000) top/5px 5px no-repeat, conic-gradient(rgb(255,166,22) calc(1.465076660988075 * 1%), #0000 0);
                             }
                     </style>
                         
                     <div class="container">
                         <div class="profile">
                             <span class="name">Roman Shalman a.k.a <a href="https://leetcode.com/Kursor" target="_blank">Kursor</a></span>
-                            <span class="profileInfo"><p>Ranking:</p><b>1,319,088</b></span>
+                            <span class="profileInfo"><p>Ranking:</p><b>1,319,882</b></span>
                             <span class="profileInfo"><p>Views:</p> <b>277</b> <p class="highlight">+0</p></span>
                             <span class="profileInfo"><p>Solutions:</p> <b>10</b> <p class="highlight">+0</p></span>
                             <span class="profileInfo"><p>Reputation:</p> <b>0</b></span>
@@ -165,31 +165,31 @@
                                     <div class="detail">
                                         <div class="detailInfo">
                                             <p>Easy</p>
-                                            <p>32 / 744</p>
+                                            <p>32 / 745</p>
                                             <p>Beats 65.78%</p>
                                         </div>
                                         <div style="background-color: rgba(44,187,93,.25);" class="detailBar">
-                                            <span style="background-color: rgb(0,184,163); width: 4.301075268817204%;" class="progress" />
+                                            <span style="background-color: rgb(0,184,163); width: 4.295302013422819%;" class="progress" />
                                         </div>
                                     </div>
 <div class="detail">
                                         <div class="detailInfo">
                                             <p>Medium</p>
-                                            <p>10 / 1544</p>
+                                            <p>10 / 1546</p>
                                             <p>Beats 41.37%</p>
                                         </div>
                                         <div style="background-color: rgba(255,192,30,.25);" class="detailBar">
-                                            <span style="background-color: rgb(255, 192, 30); width: 0.6476683937823834%;" class="progress" />
+                                            <span style="background-color: rgb(255, 192, 30); width: 0.6468305304010349%;" class="progress" />
                                         </div>
                                     </div>
 <div class="detail">
                                         <div class="detailInfo">
                                             <p>Hard</p>
-                                            <p>1 / 643</p>
+                                            <p>1 / 644</p>
                                             <p>Not enough data</p>
                                         </div>
                                         <div style="background-color: rgba(239,71,67,.25);" class="detailBar">
-                                            <span style="background-color: rgb(239, 71, 67); width: 0.15552099533437014%;" class="progress" />
+                                            <span style="background-color: rgb(239, 71, 67); width: 0.15527950310559005%;" class="progress" />
                                         </div>
                                     </div> 
                                     
