@@ -6,13 +6,8 @@
     "country": "Russia",
     "flagIconURL": "https://cdn-icons-png.flaticon.com/64/197/197408.png"
   },
-  "currentlyLiving": {
-    "city": "London",
-    "country": "United Kingdom",
-    "flagIconURL": "https://cdn-icons-png.flaticon.com/64/197/197374.png"
-  },
   "mainJobTitle": "Frontend Engineer",
-  "currentJobTitle": "Senior Frontend Developer / Team Lead",
+  "currentJobTitle": "Tech Lead",
   "learning": [
     {"name": "Vue.js", "imageURL": "https://raw.githubusercontent.com/vuejs/art/9f8ee218d32b52c2d150212f22798a7a61689361/logo.svg"},
     {"name": "Solid.js", "imageURL": "https://www.solidjs.com/img/logo/without-wordmark/logo.svg"},
