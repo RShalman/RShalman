@@ -137,14 +137,14 @@
                             }
                             
                             .circle:after {
-                                background: radial-gradient(farthest-side, rgb(255,166,22) 98%, #0000) top/5px 5px no-repeat, conic-gradient(rgb(255,166,22) calc(1.2944009632751354 * 1%), #0000 0);
+                                background: radial-gradient(farthest-side, rgb(255,166,22) 98%, #0000) top/5px 5px no-repeat, conic-gradient(rgb(255,166,22) calc(1.2940114354498948 * 1%), #0000 0);
                             }
                     </style>
                         
                     <div class="container">
                         <div class="profile">
                             <span class="name">Roman Shalman a.k.a <a href="https://leetcode.com/Kursor" target="_blank">Kursor</a></span>
-                            <span class="profileInfo"><p>Ranking:</p><b>1,796,003</b></span>
+                            <span class="profileInfo"><p>Ranking:</p><b>1,797,647</b></span>
                             <span class="profileInfo"><p>Views:</p> <b>320</b> <p class="highlight">+0</p></span>
                             <span class="profileInfo"><p>Solutions:</p> <b>10</b> <p class="highlight">+0</p></span>
                             <span class="profileInfo"><p>Reputation:</p> <b>0</b></span>
@@ -175,11 +175,11 @@
 <div class="detail">
                                         <div class="detailInfo">
                                             <p>Medium</p>
-                                            <p>10 / 1737</p>
+                                            <p>10 / 1738</p>
                                             <p>Beats 40.44%</p>
                                         </div>
                                         <div style="background-color: rgba(255,192,30,.25);" class="detailBar">
-                                            <span style="background-color: rgb(255, 192, 30); width: 0.5757052389176741%;" class="progress" />
+                                            <span style="background-color: rgb(255, 192, 30); width: 0.5753739930955121%;" class="progress" />
                                         </div>
                                     </div>
 <div class="detail">
