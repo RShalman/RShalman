@@ -137,7 +137,7 @@
                             }
                             
                             .circle:after {
-                                background: radial-gradient(farthest-side, rgb(255,166,22) 98%, #0000) top/5px 5px no-repeat, conic-gradient(rgb(255,166,22) calc(1.2332439678284184 * 1%), #0000 0);
+                                background: radial-gradient(farthest-side, rgb(255,166,22) 98%, #0000) top/5px 5px no-repeat, conic-gradient(rgb(255,166,22) calc(1.2315930388219545 * 1%), #0000 0);
                             }
                     </style>
                         
@@ -165,31 +165,31 @@
                                     <div class="detail">
                                         <div class="detailInfo">
                                             <p>Easy</p>
-                                            <p>35 / 909</p>
+                                            <p>35 / 910</p>
                                             <p>Beats 67.85%</p>
                                         </div>
                                         <div style="background-color: rgba(44,187,93,.25);" class="detailBar">
-                                            <span style="background-color: rgb(0,184,163); width: 3.8503850385038505%;" class="progress" />
+                                            <span style="background-color: rgb(0,184,163); width: 3.8461538461538463%;" class="progress" />
                                         </div>
                                     </div>
 <div class="detail">
                                         <div class="detailInfo">
                                             <p>Medium</p>
-                                            <p>10 / 1942</p>
+                                            <p>10 / 1944</p>
                                             <p>Beats 39.63%</p>
                                         </div>
                                         <div style="background-color: rgba(255,192,30,.25);" class="detailBar">
-                                            <span style="background-color: rgb(255, 192, 30); width: 0.5149330587023686%;" class="progress" />
+                                            <span style="background-color: rgb(255, 192, 30); width: 0.51440329218107%;" class="progress" />
                                         </div>
                                     </div>
 <div class="detail">
                                         <div class="detailInfo">
                                             <p>Hard</p>
-                                            <p>1 / 879</p>
+                                            <p>1 / 881</p>
                                             <p>Not enough data</p>
                                         </div>
                                         <div style="background-color: rgba(239,71,67,.25);" class="detailBar">
-                                            <span style="background-color: rgb(239, 71, 67); width: 0.11376564277588169%;" class="progress" />
+                                            <span style="background-color: rgb(239, 71, 67); width: 0.11350737797956867%;" class="progress" />
                                         </div>
                                     </div> 
                                     
