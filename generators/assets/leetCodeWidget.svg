@@ -137,14 +137,14 @@
                             }
                             
                             .circle:after {
-                                background: radial-gradient(farthest-side, rgb(255,166,22) 98%, #0000) top/5px 5px no-repeat, conic-gradient(rgb(255,166,22) calc(1.14342530449913 * 1%), #0000 0);
+                                background: radial-gradient(farthest-side, rgb(255,166,22) 98%, #0000) top/5px 5px no-repeat, conic-gradient(rgb(255,166,22) calc(1.1420059582919562 * 1%), #0000 0);
                             }
                     </style>
                         
                     <div class="container">
                         <div class="profile">
                             <span class="name">Roman Shalman a.k.a <a href="https://leetcode.com/Kursor" target="_blank">Kursor</a></span>
-                            <span class="profileInfo"><p>Ranking:</p><b>2,795,530</b></span>
+                            <span class="profileInfo"><p>Ranking:</p><b>2,797,521</b></span>
                             <span class="profileInfo"><p>Views:</p> <b>390</b> <p class="highlight">+0</p></span>
                             <span class="profileInfo"><p>Solutions:</p> <b>10</b> <p class="highlight">+0</p></span>
                             <span class="profileInfo"><p>Reputation:</p> <b>0</b></span>
@@ -165,31 +165,31 @@
                                     <div class="detail">
                                         <div class="detailInfo">
                                             <p>Easy</p>
-                                            <p>35 / 959</p>
-                                            <p>Beats 67.19%</p>
+                                            <p>35 / 960</p>
+                                            <p>Beats 67.18%</p>
                                         </div>
                                         <div style="background-color: rgba(44,187,93,.25);" class="detailBar">
-                                            <span style="background-color: rgb(0,184,163); width: 3.6496350364963503%;" class="progress" />
+                                            <span style="background-color: rgb(0,184,163); width: 3.6458333333333335%;" class="progress" />
                                         </div>
                                     </div>
 <div class="detail">
                                         <div class="detailInfo">
                                             <p>Medium</p>
-                                            <p>10 / 2101</p>
+                                            <p>10 / 2103</p>
                                             <p>Beats 38.95%</p>
                                         </div>
                                         <div style="background-color: rgba(255,192,30,.25);" class="detailBar">
-                                            <span style="background-color: rgb(255, 192, 30); width: 0.47596382674916704%;" class="progress" />
+                                            <span style="background-color: rgb(255, 192, 30); width: 0.475511174512601%;" class="progress" />
                                         </div>
                                     </div>
 <div class="detail">
                                         <div class="detailInfo">
                                             <p>Hard</p>
-                                            <p>1 / 963</p>
+                                            <p>1 / 965</p>
                                             <p>Not enough data</p>
                                         </div>
                                         <div style="background-color: rgba(239,71,67,.25);" class="detailBar">
-                                            <span style="background-color: rgb(239, 71, 67); width: 0.10384215991692626%;" class="progress" />
+                                            <span style="background-color: rgb(239, 71, 67); width: 0.10362694300518134%;" class="progress" />
                                         </div>
                                     </div> 
                                     
